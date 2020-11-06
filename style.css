@@ -1,0 +1,46 @@
+input{
+    font-size: 200%;
+    color: blue;
+    
+}
+
+
+
+label{
+    font-size: 300%;
+}
+
+div{
+    background-color: aqua;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 350px;
+    padding: 10%;
+
+}
+
+body{
+    text-align: center;
+}
+
+#submit{
+    background-color: yellow;
+    border-radius: 30%;
+    display: flex;
+    height: 50px;
+    border: none;
+    position: absolute;
+    top: 650px;
+    left: 350px;
+}
+
+body{
+    text-align: center;
+    background-image: url('https://media.istockphoto.com/photos/yellow-paper-background-colorful-paper-texture-picture-id894991010?k=6&m=894991010&s=612x612&w=0&h=0GC473FzZMuJXzMgKEjhBXHv5g41GpUmvmEX4klnm4w=');
+}
+
+h1{
+    color: aqua;
+    font-size: 300%;
+}
